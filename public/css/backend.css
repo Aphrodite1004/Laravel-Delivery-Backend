@@ -1,0 +1,6 @@
+.image-hover img:hover {
+    -webkit-transform: scale(4);
+            transform: scale(4);
+    -webkit-transition-duration: 1s;
+            transition-duration: 1s;
+  }
